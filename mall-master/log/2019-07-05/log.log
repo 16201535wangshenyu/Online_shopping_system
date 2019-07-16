@@ -1,0 +1,19 @@
+2019-07-05 09:28:36.280 [restartedMain] INFO  com.example.mallmaster.MallApplication - Starting MallApplication on LAPTOP-OAIS6U3J with PID 3228 (started by Lenovo in G:\WEB高级编程综合课程设计\mall-master)
+2019-07-05 09:28:36.280 [restartedMain] INFO  com.example.mallmaster.MallApplication - No active profile set, falling back to default profiles: default
+2019-07-05 09:28:39.562 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 09:28:39.577 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 09:28:39.577 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-07-05 09:28:39.780 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-05 09:28:39.890 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2019-07-05 09:28:40.514 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-07-05 09:28:40.749 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-07-05 09:28:40.858 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.9.Final}
+2019-07-05 09:28:40.858 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-07-05 09:28:41.061 [restartedMain] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-07-05 09:28:41.436 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-07-05 09:28:44.829 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 09:28:45.056 [restartedMain] INFO  com.example.mallmaster.MallApplication - Started MallApplication in 9.276 seconds (JVM running for 12.568)
+2019-07-05 09:28:56.229 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 09:28:58.693 [http-nio-8080-exec-3] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
